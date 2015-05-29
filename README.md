@@ -118,5 +118,5 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 NWbtnPackage
 ------------
 
-NWbtnPackage is the Nick Woods Button Package and is licensed under 
+NWbtnPackage is the Nicholas Woods Button Package and is licensed under 
 CreativeCommons Attribution-ShareAlike (CC BY-SA)
